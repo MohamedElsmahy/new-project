@@ -25,3 +25,7 @@ please make sure to update test as appropriate.
 
 ## License
 [MIT](MIThttps://www.mit.edu)
+
+## Images
+![](Foobar.png)
+
